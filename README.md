@@ -29,4 +29,4 @@ Insteresting to read/watch links
 * http://blogs.tedneward.com/post/the-vietnam-of-computer-science/
 * https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html
 * https://ericsink.com/articles/Four_Questions.html
-
+* https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/
