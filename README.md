@@ -1,5 +1,5 @@
 # reading
-Insteresting to read/watch links
+Insteresting to read/watch links.
 
 * https://blog.codinghorror.com/nobody-hates-software-more-than-software-developers/
 * https://scottberkun.com/essays/46-why-software-sucks/
@@ -30,3 +30,4 @@ Insteresting to read/watch links
 * https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html
 * https://ericsink.com/articles/Four_Questions.html
 * https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/
+* https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
