@@ -15,6 +15,7 @@ Interesting to read/watch links.
 * https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/
 * https://ericsink.com/articles/Four_Questions.html
 * https://www.coderhood.com/series/principles/
+* https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 
 ## General more or less technical stuff...
 * https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
@@ -43,9 +44,11 @@ Interesting to read/watch links.
 * https://www.yegor256.com/2015/01/08/morning-standup-meetings.html
 
 ### Real-politik
+* https://blog.pragmaticengineer.com/the-product-minded-engineer/
 * https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 * How bright is your future : https://www.youtube.com/watch?v=IGbteQpTNCA
 * https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
+
 
 
 ## Other
