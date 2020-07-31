@@ -7,6 +7,7 @@ Interesting to read/watch links.
 * https://saintgimp.org/2009/03/11/source-code-is-a-liability-not-an-asset/
 * https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 * https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/
+* https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/ ("So the abstractions save us time working, but they don’t save us time learning")
 
 ## Write it and live with it
 * Livable code : https://www.youtube.com/watch?v=8_UoDmJi7U8
